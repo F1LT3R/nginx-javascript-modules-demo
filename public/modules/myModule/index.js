@@ -1,0 +1,1 @@
+alert(`My Module was loaded!`);
