@@ -4,6 +4,7 @@
 2. Update the public dir in `nginx.conf`
 3. `sudo nginx -c $(pwd)/nginx.conf`
 4. Open browser to `http://localhost`
+5. When you're done: `sudo nginx -s quit`
 
 In the JavaScript console you should see:
 
